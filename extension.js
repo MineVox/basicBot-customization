@@ -110,6 +110,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript('https://rawgit.com/Yemasthui/basicBot/master/basicBot.js', extend);
+    $.getScript('https://github.com/MineVox/MineVoxBOT/blob/master/basicBot.js', extend);
 
 }).call(this);
